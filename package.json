@@ -1,6 +1,6 @@
 {
   "name": "@seagomezar/ionchart",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "An utilitary component to display charts with React using Chart.js",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -16,12 +16,12 @@
   "license": "ISC",
   "dependencies": {
     "chart.js": "^2.9.4",
-    "react": "^17.0.1",
+    "react": "^16.13.0",
     "@types/chart.js": "^2.9.28",
-    "@types/react": "^17.0.0"
+    "@types/react": "^16.13.0"
   },
   "peerDependencies": {
-    "react": ">=17.0.1"
+    "react": "16.13.0"
   },
   "devDependencies": {
     "typescript": "^4.1.2"
